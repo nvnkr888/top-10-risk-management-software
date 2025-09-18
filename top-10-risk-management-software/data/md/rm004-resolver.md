@@ -10,7 +10,7 @@
 ## Short summary
 Risk register, incident management, analytics.
 
-## Key features (example)
+## Key features  
 Enterprise risk & compliance management
 
 Incident management & investigations
