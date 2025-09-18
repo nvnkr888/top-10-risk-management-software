@@ -11,9 +11,20 @@
 GRC capabilities built on the ServiceNow platform.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Unified platform for risk, compliance & IT
 
+Automated workflows with ServiceNow ecosystem
+
+Continuous monitoring of controls
+
+Risk scoring & issue management
+
+Policy & regulatory compliance management
+
+Vendor risk management module
+
+AI-driven analytics & dashboards
+
+Strong integration with ITSM, HR, and SecOps
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Strong integration with enterprise operations; benefit if you already use ServiceNow — unified platform approach.
