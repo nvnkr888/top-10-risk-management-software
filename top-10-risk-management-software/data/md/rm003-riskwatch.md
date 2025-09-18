@@ -4,7 +4,7 @@
 **Authors:** RiskWatch Team
 **Published Date:** 2024-09-10
 **Canonical URL:** https://riskwatch.com/
-**Archived URL:** https://web.archive.org/web/20240910/https://riskwatch.com/product
+**Archived URL:** https://web.archive.org/web/20240910/https://riskwatch.com/
 **License:** CC-BY-4.0
 
 ## Short summary
