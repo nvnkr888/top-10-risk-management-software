@@ -16,4 +16,4 @@ Uniform, centralized risk frameworks and libraries, risk registers.
 Advanced visualization: heat maps, dashboards, real-time reports.
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+High-scale enterprise GRC/ERM platform; strong regulatory mapping, rich dashboarding, control library, used by regulated sectors.
