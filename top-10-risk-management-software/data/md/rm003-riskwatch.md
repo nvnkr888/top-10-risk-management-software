@@ -11,9 +11,25 @@
 Assessment automation, pre-built libraries, audit planning, analytics. Highlighted vendor in top 3.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Automated Risk Assessments – Save 40+ hours per assessment with workflow automation.
+
+Pre-Built Content Libraries – Industry-specific templates for CTPAT, ISO, PCI DSS, HIPAA, and more.
+
+Objective Risk Scoring – Data-driven criteria for consistent, bias-free risk evaluation.
+
+Gap Analysis & Remediation – Identify compliance gaps and assign corrective actions.
+
+Centralized Document Management – Store, track, and version all evidence securely.
+
+Audit Planning & Tracking – Plan audits, schedule tasks, and monitor completion.
+
+Powerful Analytics & Dashboards – Real-time risk visibility with customizable reports.
+
+Multi-Industry Support – Used across sectors like healthcare, retail, manufacturing, and supply chain.
+
+Cloud-Based & Scalable – No heavy IT setup; scalable for teams of all sizes.
+
+Collaboration Tools – Role-based access, team assignments, and secure sharing.
 
 ## Notes
 This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
