@@ -32,4 +32,4 @@ Cloud-Based & Scalable – No heavy IT setup; scalable for teams of all sizes.
 Collaboration Tools – Role-based access, team assignments, and secure sharing.
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Full-featured vendor with pre-built content libraries, assessment automation, audit scheduling & strong analytics. Ideal for compliance-heavy industries.
