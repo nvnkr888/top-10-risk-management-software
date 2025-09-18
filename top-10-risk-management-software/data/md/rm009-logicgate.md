@@ -11,9 +11,21 @@
 Configurable risk workflow platform.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+No-code / low-code platform for risk workflows
+
+Risk assessments & scoring
+
+Vendor risk management
+
+Incident & issue management
+
+Regulatory compliance tracking
+
+Workflow automation & integrations
+
+Real-time dashboards & analytics
+
+Scalable modules for different industries
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+No-code / low-code flexibility; fast configuration, good for customizing controls, workflows, and adaptive risk models.
