@@ -10,7 +10,7 @@
 ## Short summary
 Risk management with integrated workflow and reporting.
 
-## Key features (example)
+## Key features  
 Pre-built and configurable risk libraries & assessment templates. 
 Root cause analysis to trace underlying issues across processes.
 
