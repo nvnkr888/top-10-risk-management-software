@@ -11,9 +11,8 @@
 Risk management with integrated workflow and reporting.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Pre-built and configurable risk libraries & assessment templates. 
+Root cause analysis to trace underlying issues across processes.
 
 ## Notes
 This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
