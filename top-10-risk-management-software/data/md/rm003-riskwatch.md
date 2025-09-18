@@ -10,7 +10,7 @@
 ## Short summary
 Assessment automation, pre-built libraries, audit planning, analytics. Highlighted vendor in top 3.
 
-## Key features (example)
+## Key features  
 Automated Risk Assessments – Save 40+ hours per assessment with workflow automation.
 
 Pre-Built Content Libraries – Industry-specific templates for CTPAT, ISO, PCI DSS, HIPAA, and more.
