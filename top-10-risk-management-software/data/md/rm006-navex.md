@@ -11,9 +11,21 @@
 Integrated risk management with policy management.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Policy & compliance management
+
+Third-party/vendor risk management
+
+ESG (environmental, social, governance) management
+
+Incident reporting & whistleblower tools
+
+Regulatory & compliance frameworks mapping
+
+Risk assessments & control monitoring
+
+Analytics, dashboards & reporting
+
+Cloud-based platform with integrations
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Compliance + ESG + policy management blend; useful where ethics, behavior, and regulatory compliance are interlinked.
