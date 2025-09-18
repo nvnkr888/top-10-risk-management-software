@@ -11,9 +11,21 @@
 Lightweight GRC product for small-medium orgs.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Lightweight GRC/risk platform
+
+Policy & compliance management
+
+Vendor/third-party risk management
+
+Audit trails & documentation
+
+Risk scoring & monitoring
+
+Simple dashboards & reports
+
+Cloud-based with fast setup
+
+Good fit for SMBs needing streamlined compliance
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Lightweight, easier to adopt; good for small-to-mid size companies needing streamlined GRC, policy & compliance tracking.
