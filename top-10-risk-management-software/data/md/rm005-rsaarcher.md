@@ -11,9 +11,15 @@
 Mature GRC platform used by large enterprises.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Centralized Risk Repository
+All risk, compliance, audit, incident, and vendor-data are stored in a single platform for a unified, enterprise-wide view. 
+Multisoft Virtual Academy
 
-## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Enterprise & Operational Risk Management
+
+Top-down, bottom-up risk assessments 
+Risk & control self-assessments, scenario analysis, loss event tracking and root-cause analysis 
+
+
+Key Risk Indicators (KRIs) and Control Indicators (KCIs) to monitor ongoing risk exposure.
+
