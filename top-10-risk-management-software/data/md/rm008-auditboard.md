@@ -11,9 +11,21 @@
 Audit-centric risk and compliance management.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Risk & audit management platform
+
+Centralized repository for risks & controls
+
+SOX compliance, internal audit & assurance
+
+Issue tracking & remediation workflows
+
+Policy & compliance mapping
+
+Workflow automation & reporting
+
+Dashboards & executive risk insights
+
+Cloud-based, easy adoption for audit teams
 
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Audit and risk oversight focused; excellent for organizations with heavy audit/regulatory pressure.
