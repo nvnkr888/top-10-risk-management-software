@@ -10,7 +10,7 @@
 ## Short summary
 Enterprise risk & GRC platform with wide adoption.
 
-## Key features (example)
+## Key features 
 Multi-dimensional risk assessments (qualitative + quantitative) based on parameters like business unit, process, product, etc. 
 Uniform, centralized risk frameworks and libraries, risk registers. 
 Advanced visualization: heat maps, dashboards, real-time reports.
