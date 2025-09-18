@@ -11,9 +11,18 @@
 Risk register, incident management, analytics.
 
 ## Key features (example)
-- Feature A
-- Feature B
-- Feature C
+Enterprise risk & compliance management
 
+Incident management & investigations
+
+Security event tracking
+
+Workflow automation & alerts
+
+Real-time dashboards & risk reports
+
+Risk assessments & controls mapping
+
+Vendor/third-party risk monitoring
 ## Notes
-This is a snapshot/stub created for the citation corpus. Replace with full cleaned text or a longer summary as needed.
+Surveys, incident & event management, workflow automation, real-time dashboards; good for bridging operations & risk oversight.
