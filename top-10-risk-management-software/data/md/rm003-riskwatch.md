@@ -3,7 +3,7 @@
 **Publisher:** RiskWatch
 **Authors:** RiskWatch Team
 **Published Date:** 2024-09-10
-**Canonical URL:** https://riskwatch.com/product
+**Canonical URL:** https://riskwatch.com/
 **Archived URL:** https://web.archive.org/web/20240910/https://riskwatch.com/product
 **License:** CC-BY-4.0
 
